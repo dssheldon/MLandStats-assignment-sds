@@ -59,6 +59,7 @@ The most efficient way to do the above  is to install the `anaconda` package fro
 You can view the notebooks in static form (`nbviewer`) and dynamic form (`binder`) by clicking the following badges:
 
 <i>Scikit-learn Workbook:</i>
+
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/dssheldon/MLandStats-assignment-sds/blob/main/scikit-learn.ipynb)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dssheldon/MLandStats-assignment-sds/HEAD?labpath=scikit-learn.ipynb)
@@ -66,6 +67,7 @@ You can view the notebooks in static form (`nbviewer`) and dynamic form (`binder
 
 
 <i>Scipy-stats Workbook:</i>
+
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/dssheldon/MLandStats-assignment-sds/blob/main/scipy-stats.ipynb)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dssheldon/MLandStats-assignment-sds/HEAD?labpath=scipy-stats.ipynb)
